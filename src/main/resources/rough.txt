@@ -1,0 +1,6 @@
+server : /server1
+
+send msg: /app/message
+            {}
+
+subscribe: /topic/return-to
